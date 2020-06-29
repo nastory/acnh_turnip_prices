@@ -1,0 +1,10 @@
+scripts/python/__pycache__
+scripts/python/imports/__pycache__
+csv_data
+images
+.DS_Store
+php/.DS_Store
+dashboard/.DS_Store
+scripts/.DS_Store
+scripts/python/.DS_Store
+ajax/.DS_Store

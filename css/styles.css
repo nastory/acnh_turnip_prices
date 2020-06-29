@@ -1,0 +1,85 @@
+body {
+	background-image: url('../images/leaf.jpg');
+	font-family: "Bree Serif";
+	letter-spacing: 1.5px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.enter-price-form-container {
+	background-color: white;
+	width: 50%;
+	margin: 5% auto;
+	border-radius: 5px;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+}
+
+.enter-price-form {
+	margin: 5% 10%;
+}
+
+.form-header {
+	text-align: center;
+	width: 100%;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	padding: 10px 0;
+	background-color: #FEF06B;
+	color: #6b5c43;
+}
+
+#login-link {
+	float: right;
+	color: white;
+}
+
+#login-container {
+	margin: 100px auto;
+	width: 40%;
+	min-width: 400px
+}
+
+#login-welcome {
+	padding-top: 20px;
+	text-align: center;
+	font-size: 24px;
+	color: #575C66;
+}
+
+.footer-link {
+	float: left;
+}
+
+#ts-this-week {
+	margin: 0 auto;
+	width: 100%;
+}
+
+#ts-this-week-plot {
+	height: 400px;
+}
+
+#price-hist {
+	float: left;
+	width: 49%;
+	margin-right: 0.5%;
+}
+
+#price-hist-chart {
+	height: 300px;
+}
+
+#ts-last-week {
+	float: right;
+	width: 49%;
+	margin-left: 0.5%;
+}
+
+#ts-last-week-plot {
+	height: 300px;
+}
+
+
