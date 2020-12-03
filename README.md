@@ -4,5 +4,5 @@ Time series clustering analysis and classification. Comparitive K-Means, Hierarc
 
 Full-Stack web dev on ACNH turnip price tracker. PHP+JavaScript front-end, PHP+Python+MySQL back-end.
 
-If you have trouble rendering the notebook on GitHub, try the below link:
-https://nbviewer.jupyter.org/github/nastory/acnh_turnip_prices/blob/master/Animal%20Crossing%20New%20Horizons%2C%20the%20Stalk%20Market.ipynb
+Please view the Jupyter Notebook via the below link:
+https://nbviewer.jupyter.org/github/nastory/acnh_time_series_clustering/blob/main/Animal%20Crossing%20New%20Horizons%2C%20the%20Stalk%20Market.ipynb
